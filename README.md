@@ -3,7 +3,7 @@
 Evidence-first multilingual academic + engineering portfolio designed for GitHub Pages.
 
 ## Public site
-https://varmad07.github.io/resume/
+https://dnti07.github.io/resume/
 
 ## Architecture
 - `index.html` — semantic content, reviewer summary and evidence-linked portfolio
